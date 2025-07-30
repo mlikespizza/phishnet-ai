@@ -1,3 +1,6 @@
 *.py linguist-detectable=true
 scripts/*.py linguist-detectable=true
 models/*.py linguist-detectable=true
+data/* linguist-documentation
+*.pkl linguist-documentation
+*.txt linguist-documentation
