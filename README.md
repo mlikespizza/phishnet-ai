@@ -33,7 +33,7 @@
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/phishnet-ai.git
+git clone https://github.com/mlikespizza/phishnet-ai.git
 cd phishnet-ai
 ```
 
