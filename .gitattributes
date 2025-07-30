@@ -1,0 +1,3 @@
+*.py linguist-detectable=true
+scripts/*.py linguist-detectable=true
+models/*.py linguist-detectable=true
