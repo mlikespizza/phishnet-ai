@@ -1,0 +1,10 @@
+Subject: Urgent: Account Verification Required
+
+Dear Customer,
+
+We detected unusual activity in your account. To avoid suspension, please verify your identity by clicking the link below:
+
+[Verify Now](http://suspicious-link.com)
+
+Thank you,  
+Your Bank
